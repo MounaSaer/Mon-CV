@@ -1,2 +1,2 @@
 # Mon-CV
-https://moncv.com/
+mounasaer.github.io/Mon-CV/
