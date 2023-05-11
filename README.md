@@ -1,2 +1,2 @@
 # Mon-CV
-htpps://moncv.com/cvs/
+https://moncv.com/
